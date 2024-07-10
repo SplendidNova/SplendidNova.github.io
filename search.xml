@@ -99,7 +99,7 @@
     <content><![CDATA[
   <div class="note-large red">
     <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
-      <p>ガールズ·エッグ·ディストピア</p>
+      <p><strong>ガールズ·エッグ·ディストピア</strong></p>
 
     </div>
     <div class="notel-content">
@@ -235,7 +235,7 @@
 <h4 id="主要人物"><a href="#主要人物" class="headerlink" title="主要人物"></a>主要人物</h4><p><figure class="image-caption"><img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="https://raw.githubusercontent.com/SplendidNova/SplendidNova.github.io/main/2024/07/09/%E8%89%BE%E5%BC%97%E9%9B%B7%E7%89%B9%E6%80%BB%E6%95%B0%E6%8D%AE%E5%BA%93/mainc.png"
+                     data-src="/img/mainc.png"
                       alt="image"
                 ><figcaption>image</figcaption></figure></p>
 <ul>
@@ -253,7 +253,7 @@
 <h4 id="次要人物"><a href="#次要人物" class="headerlink" title="次要人物"></a>次要人物</h4><p><figure class="image-caption"><img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="https://raw.githubusercontent.com/SplendidNova/SplendidNova.github.io/main/2024/07/09/%E8%89%BE%E5%BC%97%E9%9B%B7%E7%89%B9%E6%80%BB%E6%95%B0%E6%8D%AE%E5%BA%93/subc.png"
+                     data-src="/img/subc.png"
                       alt="image"
                 ><figcaption>image</figcaption></figure></p>
 <ul>
@@ -271,7 +271,7 @@
 <h4 id="其他人物"><a href="#其他人物" class="headerlink" title="其他人物"></a>其他人物</h4><p><figure class="image-caption"><img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="https://raw.githubusercontent.com/SplendidNova/SplendidNova.github.io/main/2024/07/09/%E8%89%BE%E5%BC%97%E9%9B%B7%E7%89%B9%E6%80%BB%E6%95%B0%E6%8D%AE%E5%BA%93/othc.png"
+                     data-src="/img/othc.png"
                       alt="image"
                 ><figcaption>image</figcaption></figure></p>
 <ul>
