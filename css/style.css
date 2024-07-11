@@ -888,6 +888,7 @@ button {
   }
 }
 .btn:hover {
+  transform: scaleX(1.06) scaleY(1.06);
   box-shadow: var(--redefine-box-shadow-hover);
 }
 .btn:hover,
@@ -1041,7 +1042,7 @@ button {
   font-size: 3.2rem;
   font-weight: 650;
   border-bottom: solid 2px var(--fourth-text-color);
-  margin-top: 3.2rem;
+  margin-top: 1rem;
   margin-bottom: 1rem;
   letter-spacing: -0.025em;
   line-height: 1.2;
@@ -1059,7 +1060,7 @@ button {
   font-weight: 650;
   padding: 3px 0;
   border-bottom: solid 2px var(--fourth-text-color);
-  margin-top: 2.4rem;
+  margin-top: 1rem;
   margin-bottom: 1rem;
   letter-spacing: -0.025em;
   line-height: 1.1;
@@ -1075,7 +1076,7 @@ button {
 .markdown-body .h3 {
   font-size: 1.8rem;
   font-weight: 600;
-  margin-top: 1.9rem;
+  margin-top: 1rem;
   margin-bottom: 0.75rem;
   letter-spacing: -0.025em;
   line-height: 1.3;
@@ -1091,7 +1092,7 @@ button {
 .markdown-body .h4 {
   font-size: 1.5rem;
   font-weight: 600;
-  margin-top: 1.6rem;
+  margin-top: 1rem;
   margin-bottom: 0.75rem;
   line-height: 1.4;
 }
@@ -1106,7 +1107,7 @@ button {
 .markdown-body .h5 {
   font-size: 1.28rem;
   font-weight: 600;
-  margin-top: 1.4rem;
+  margin-top: 1rem;
   margin-bottom: 0.5rem;
   line-height: 1.3;
 }
@@ -1121,7 +1122,7 @@ button {
 .markdown-body .h6 {
   font-size: 1.2rem;
   font-weight: 600;
-  margin-top: 1.3rem;
+  margin-top: 1rem;
   margin-bottom: 0.5rem;
   line-height: 1.2;
 }
@@ -3798,6 +3799,7 @@ html.is-animating .scroll-progress-bar {
   margin-bottom: 0;
 }
 .post-tools-container .article-tools-list li:hover {
+  transform: scaleX(1.06) scaleY(1.06);
   box-shadow: var(--redefine-box-shadow-hover);
 }
 .post-tools-container .article-tools-list li.page-aside-toggle {
@@ -4517,6 +4519,7 @@ html.is-animating .scroll-progress-bar {
 .paginator span.page-number:hover,
 .paginator a.prev:hover,
 .paginator a.next:hover {
+  transform: scaleX(1.06) scaleY(1.06);
   box-shadow: var(--redefine-box-shadow-hover);
 }
 .paginator a.page-number:hover,
@@ -6083,6 +6086,7 @@ html.is-animating .scroll-progress-bar {
   }
 }
 .home-content-container .home-article-list .home-article-item:hover {
+  transform: scaleX(1.015) scaleY(1.015);
   box-shadow: var(--redefine-box-shadow-hover);
 }
 @media (max-width: 768px) {
