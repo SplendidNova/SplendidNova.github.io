@@ -281,7 +281,7 @@
   font-size: 1.4rem;
   line-height: 1.5;
   color: var(--second-text-color);
-  font-family: 'Poppins', '微软雅黑', 'Noto Sans SC', sans-serif;
+  font-family: 'Andika', -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', 'Heiti SC', 'WenQuanYi Micro Hei', sans-serif, 'Noto Sans SC', sans-serif;
   margin: 0;
 }
 @media (max-width: 768px) {
